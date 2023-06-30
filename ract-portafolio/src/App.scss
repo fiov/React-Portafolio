@@ -8,11 +8,16 @@ $primary-color: #ffd700;
 }
 
 @font-face {
-  font-family: 'La Belle Aurora ';
-  src: url('./assets/fonts/LaBelleAurora.woff2') format('woff2');
+  font-family: 'La Belle Aurore ';
+  src: url('./assets/fonts/LaBelleAurore.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'Coolvetica';
-  src: url('./assets/fonts/Coolvetica-Regular.woff2') format('woff2');
+  src: url('./assets/fonts/CoolveticaRg-Regular.woff2') format('woff2');
+}
+
+input,
+textarea{
+  font-family:  'Helvetica Neue';
 }
